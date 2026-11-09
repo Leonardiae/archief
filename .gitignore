@@ -1,0 +1,4 @@
+# Claude Code: lokale instellingen en notities blijven buiten git. "Yes, and don't ask again"
+# zet goedgekeurde commando's hier letterlijk in, geheimen inbegrepen (Apiiro, nov 2026).
+**/.claude/settings.local.json
+**/CLAUDE.local.md
